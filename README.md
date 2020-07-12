@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👾 [Portfolio website](https://sophiabell-portfolio.herokuapp.com/)
+
+✍️ [Medium Blog](https://medium.com/@sophbell87)
+
+📫 How to reach me: <a href="mailto:sophbell87@gmail.com">Email</a>
+
 <!--
 **Kittaru87/Kittaru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
