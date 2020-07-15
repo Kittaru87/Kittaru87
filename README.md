@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👾 [Portfolio website](https://sophiabell-portfolio.herokuapp.com/)
+👾 [Portfolio website](https://www.sophiabell.dev)
 
 ✍️ [Medium Blog](https://medium.com/@sophbell87)
 
