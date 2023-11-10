@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👾 [Portfolio website](https://www.sophiabell.dev)
+👾 [Portfolio website](https://www.sophiabell.dev) - currently being redesigned
 
 ✍️ [Medium Blog](https://medium.com/@sophbell87)
 
